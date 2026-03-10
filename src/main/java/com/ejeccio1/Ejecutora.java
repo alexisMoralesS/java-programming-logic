@@ -48,5 +48,6 @@ public class Ejecutora {
         } else {
             System.out.println("Número no valido.");
         }
+        scan.close();
     }
 }
