@@ -56,7 +56,7 @@ Antes de comenzar, asegúrate de tener instalado:
 
 1. **Navega hasta el ejercicio:**
    - Expande `Source Packages` en el panel de proyectos
-   - Navega a `com.ejeccio1` → `Ejecutora.java`
+   - Navega a `com.ejercicio1` → `Ejecutora.java`
 
 2. **Ejecuta el archivo:**
    - Haz clic derecho en `Ejecutora.java`
@@ -83,8 +83,8 @@ java-programming-logic/
 │   ├── main/
 │       └── java/
 │           └── com/
-│               ├── ejeccio1/          # Ejercicio 1: Números Extraños
-│               ├── ejeccio2/          # Ejercicio 2: (Próximamente)
+│               ├── ejercicio1/          # Ejercicio 1: Números Extraños
+│               ├── ejercicio2/          # Ejercicio 2: (Próximamente)
 │               └── ...
 │   
 │
