@@ -1,9 +1,9 @@
-package com.ejeccio1;
+package com.ejercicio1;
 
 import java.util.Scanner;
 
 /*
-* Ejeccicio 1: Dado un número entero 𝑛, realiza las siguientes 
+* Ejercicio 1: Dado un número entero 𝑛, realiza las siguientes 
 * acciones condicionales:
 *     - Si 𝑛 es impar, imprime "Extraño".
 *     - Si 𝑛 es par y está en el rango de 2 a 5, imprime "No es extraño".

@@ -1,9 +1,9 @@
-package com.ejeccio2;
+package com.ejercicio2;
 
 import java.util.Scanner;
 
 /*
-Ejeccicio 2: Dado un número entero N, debes determinar en qué tipos de datos 
+Ejercicio 2: Dado un número entero N, debes determinar en qué tipos de datos 
 primitivos de Java puede almacenarse.
 Los tipos de datos que debes evaluar son: byte,short, int, long
 

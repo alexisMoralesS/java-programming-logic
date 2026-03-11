@@ -1,9 +1,9 @@
-package com.ejeccio3;
+package com.ejercicio3;
 
 import java.util.Scanner;
 
 /*
-Ejecicio 3: Dado un número entero N, imprime sus primeros 10 múltiplos. 
+Ejercicio 3: Dado un número entero N, imprime sus primeros 10 múltiplos. 
 Cada múltiplo N × i debe imprimirse en una nueva línea con  el siguiente 
 formato: "N x i = resultado"
 
